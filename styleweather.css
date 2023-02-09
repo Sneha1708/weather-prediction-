@@ -1,0 +1,33 @@
+html{
+    background-image:url(https://cdn.britannica.com/23/204523-138-A67F2633/more-weather-climate.jpg);
+    background-color: moccasin;
+}
+body{
+    
+    border-color:gray;
+}
+h1{
+    color:white;
+    font-size:100px;
+}
+h6{
+    color: aliceblue;
+    font-size: 20px;
+}
+button{
+    background-color: darksalmon;
+    height: 50px;
+    width: 150px;
+}
+input{
+    height: 50px;
+    width:200px;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
+p{
+    color:aliceblue;
+    font-size: 100px;
+}
